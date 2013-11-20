@@ -1,0 +1,13 @@
+C:\Users\Maxi\Desktop\ShapeGame - serverNUI\bin\Debug\ShapeGame.exe.config
+C:\Users\Maxi\Desktop\ShapeGame - serverNUI\bin\Debug\ShapeGame.exe
+C:\Users\Maxi\Desktop\ShapeGame - serverNUI\bin\Debug\ShapeGame.pdb
+C:\Users\Maxi\Desktop\ShapeGame - serverNUI\obj\Debug\MainWindow.baml
+C:\Users\Maxi\Desktop\ShapeGame - serverNUI\obj\Debug\MainWindow.g.cs
+C:\Users\Maxi\Desktop\ShapeGame - serverNUI\obj\Debug\App.g.cs
+C:\Users\Maxi\Desktop\ShapeGame - serverNUI\obj\Debug\ShapeGame_MarkupCompile.cache
+C:\Users\Maxi\Desktop\ShapeGame - serverNUI\obj\Debug\ShapeGame.g.resources
+C:\Users\Maxi\Desktop\ShapeGame - serverNUI\obj\Debug\ShapeGame.Properties.Resources.resources
+C:\Users\Maxi\Desktop\ShapeGame - serverNUI\obj\Debug\ShapeGame.csproj.GenerateResource.Cache
+C:\Users\Maxi\Desktop\ShapeGame - serverNUI\obj\Debug\ShapeGame.exe
+C:\Users\Maxi\Desktop\ShapeGame - serverNUI\obj\Debug\ShapeGame.pdb
+C:\Users\Maxi\Desktop\ShapeGame - serverNUI\obj\Debug\ShapeGame.csprojResolveAssemblyReference.cache
